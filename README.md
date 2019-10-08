@@ -1,5 +1,5 @@
 # TF-pigeon-detection
-Pigeon detector forked from [https://github.com/leocencetti/TF_object_detection](leocencetti) for the BS Drones project.
+Pigeon detector forked from [leocencetti](https://github.com/leocencetti/TF_object_detection) for the BS Drones project.
 
 ## Introduction
 
